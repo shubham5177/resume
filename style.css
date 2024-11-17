@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    background: #27ae60;
+    color: #fff;
+    padding: 10px 20px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+main {
+    padding: 20px;
+}
+
+.slider img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+video {
+    width: 100%;
+    max-width: 600px;
+    display: block;
+    margin: 20px auto;
+}
